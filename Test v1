@@ -83,5 +83,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ducsharelink/donkirob
      Name = "auto bounty",
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/NoVanThot/Test/refs/heads/main/Beta%20v2"))()
-
+  end
+  })   
    

@@ -78,10 +78,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ducsharelink/donkirob
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/marisdeptrai/Script-Free/main/FruitFinder.lua"))()
   end
-  })   AddButton(Tab1o, {
-     Name = "auto bounty",
-    Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercontent.com/NoVanThot/Test/refs/heads/main/Beta%20v2"))()
+  })   
 ----- Dropdown 
 
   Dropdown = AddDropdown(Tab1o, {

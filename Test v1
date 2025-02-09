@@ -1,3 +1,5 @@
+local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/NoVanThot/Beta-v2/refs/heads/main/Beta%20v2"))()
+local SaveManager = 
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V2/refs/heads/main/UiREDzV2.lua")))()
 
        local Window = MakeWindow({
@@ -79,20 +81,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ducsharelink/donkirob
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/marisdeptrai/Script-Free/main/FruitFinder.lua"))()
   end
   })   
------ Dropdown 
 
-  Dropdown = AddDropdown(Tab1o, {
-     Name = "a",
-     Options = {"Test 1", "Test 2", "Test 3", "Test 4"},
-     Default = "Melee",
-     Callback = function()
-     end
-   })
-
------ Section 
    
-   Section = AddSection(Tab1o, {"a"})          
-
------ Paragraph 
-                    
-   Paragraph = AddParagraph(Farm, {"a", ""})

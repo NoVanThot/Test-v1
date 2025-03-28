@@ -4,7 +4,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
        local Window = MakeWindow({
          Hub = {
          Title = "Khánh đz",
-         Animation = "Vẫn còn up thêm nhé"
+         Animation = "fuck your mom"
          },
         Key = {
         KeySystem = false,

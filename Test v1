@@ -66,10 +66,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/stuckez999/main/refs/
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Trustmenotcondom/QTONYX/refs/heads/main/QuantumOnyx.lua"))()
   end
   })   AddButton(Tab1o, {
-     Name = "auto chest",
+     Name = "hoho",
     Callback = function()
-	  getgenv().SelectedTeam = "Pirate" -- Marine
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ducsharelink/donkiroblox/refs/heads/main/donkiroblox.lua"))()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
   end
   })   AddButton(Tab1o, {
      Name = "volanco hub",
